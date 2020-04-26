@@ -4,11 +4,13 @@ layout: default
 
 # ABOUT ME 
 
+[Link to another page](./publications.html).
+
 I am a PhD Student and NSF Graduate Research Fellow at the [University of Notre Dame](https://biology.nd.edu),
 where I am advised by [Alex Perkins](https://perkinslab.weebly.com). My research interests lie broadly in the
-transmission and control of vector-borne diseses, and I use mathematical modeling to answer these questions.
+transmission and control of vector-borne diseases, and I use mathematical modeling to answer these questions.
 My doctoral work primarily focuses on <i> P. falciparum </i> and <i> P. vivax </i> malaria, though I am involved
-in vaccine impact modeling for Yellow Fever through the [Vaccine Impact Modeling Consortium](https://vaccineimpact.org).
+in vaccine impact modeling for yellow fever through the [Vaccine Impact Modeling Consortium](https://vaccineimpact.org).
 Prior to my PhD, I received my MPhil in Veterinary Science at the [University of Cambridge](https://www.research.vet.cam.ac.uk)
 with support from a Gates Cambridge Scholarship, and I studied applied mathematics at the University of Notre Dame. Outside of research, I enjoy
 running, cooking, and trying my hand at homebrewing. 

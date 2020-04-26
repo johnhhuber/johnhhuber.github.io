@@ -1,6 +1,10 @@
 title: JOHN HUBER
 logo: /assets/img/logo.png
 description: 
+author_profile: true
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+minima:
+  social_links:
+    twitter: https://twitter.com/huber_johnh
